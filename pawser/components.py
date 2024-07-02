@@ -1,6 +1,4 @@
-# bound_box
+# components: bound_box, search_text, extract_table
 
-# search_text
 
-# extract_table
 
